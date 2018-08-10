@@ -1,0 +1,18 @@
+#products-box {
+    padding: 5px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+}
+
+#product {
+    margin: 1%;
+}
+
+#img {
+    width: 200px;
+    height: 200px;
+}
